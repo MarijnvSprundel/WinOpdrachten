@@ -1,0 +1,9 @@
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\bin\Debug\netstandard2.1\StudentCoursesDAL.deps.json
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\bin\Debug\netstandard2.1\StudentCoursesDAL.dll
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\bin\Debug\netstandard2.1\StudentCoursesDAL.pdb
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.AssemblyInfoInputs.cache
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.AssemblyInfo.cs
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.csproj.CoreCompileInputs.cache
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.dll
+C:\Users\macti\source\repos\Prc4_EF_Wk01\StudentCoursesDAL\obj\Debug\netstandard2.1\StudentCoursesDAL.pdb
